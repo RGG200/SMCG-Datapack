@@ -3,7 +3,7 @@
 
   This is the Datapack for the Super Minecraft Galaxy Map from 2021 Hope you enjoy it!
 
-  | My Website | https://rgg200-github.io
+  | My Website | https://rgg200.github.io
 
   | My discord Server | https://discord.gg/U6pgmqj95C 
 
@@ -39,7 +39,7 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 
  - Finally take the datapack folder (it should be named Super Mario Galaxy) and go to your map folder (In the folder "saves") and go to datapacks and drag the Super Mario galaxy datapack in.
 
-  | For Help setting up the pack | There you have it ! |
+  | For Help setting up the pack | Pre Beta Version 0.2 |
   
 - Put these in some repeating Command block : 
 /function smg:caracther
