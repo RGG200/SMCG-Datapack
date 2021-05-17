@@ -7,7 +7,7 @@
 
   | My discord Server | https://discord.gg/U6pgmqj95C 
 
-  | Requisites |
+  | Prerequisites |
 
  - The Datapack
  
