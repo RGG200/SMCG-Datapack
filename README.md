@@ -39,6 +39,23 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 
  - Finally take the datapack folder (it should be named Super Mario Galaxy) and go to your map folder (In the folder "saves") and go to datapacks and drag the Super Mario galaxy datapack in.
 
-  | For Help setting up the pack |
+  | For Help setting up the pack | There you have it ! |
+  
+- Put these in some repeating Command block : 
+/function smg:caracther
+/function smg:energy
+/function smg:weakmario
+/function smg:tick
+/function smg:revive
+/function smg:fantom
+/function smg:give
+/function smg:info
+/function smg:mobdamage(zombies will have stone sword but it is ok do not worry about it)
 
-- Go to my discord server at the Channel #datapack-help for now because the setup is manual i will add the setup here in the future ! so stay tuned !
+- Then put these in a fast clock but not too fast you can set it after as you think it is the best for the life system ( If don't set correctly you will have some issues !)
+/function smglives (Obviously you know what this does.)
+/function smg:mobkill (This is the function that heals you when you kill a mob because in SMG when you kill a mob it drops a coin and the coin heals you and this function have another secret feature. ) 
+
+- Finally put these in a slower clock then the other one (VERY IMPORTANT). 
+/function smg:deaths
+/function smg:clear
