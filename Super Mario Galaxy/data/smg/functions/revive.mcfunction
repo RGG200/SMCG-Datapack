@@ -20,4 +20,4 @@ execute if score @p PlayerCount matches 0 run gamemode survival @a[team=player]
 execute if score @p PlayerCount matches 0 run team empty deads 
 execute if score @p PlayerCount matches 0 run scoreboard players set @a Lives 4
 execute if score @p PlayerCount matches 0 run tp @a -162 84 101
-execute if score @p PlayerCount matches 0 run tag @a remove dead
+execute if score @p PlayerCount matches 0 run tag @a remove dead 
