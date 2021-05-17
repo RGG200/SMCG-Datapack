@@ -41,4 +41,4 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 
   | For Help setting up the pack |
 
-- Go to my discord server at the Channel #My Datapack for now because the setup is manual i will add the setup here in the future ! so stay tuned !
+- Go to my discord server at the Channel #datapack-help for now because the setup is manual i will add the setup here in the future ! so stay tuned !
