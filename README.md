@@ -13,7 +13,7 @@
  
  - The Super minecraft galaxy map
 
-   | Features |
+  | Features |
 
 • The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right 
 
