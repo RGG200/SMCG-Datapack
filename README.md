@@ -1,17 +1,19 @@
 # SMGminecraftdatapack
-- This is the Datapack for the Super Minecraft Galaxy Map from 2021 Hope you enjoy it!
+ | Description |
 
-- My Website | https://rgg200-github.io
+  This is the Datapack for the Super Minecraft Galaxy Map from 2021 Hope you enjoy it!
 
-- My discord Server | https://discord.gg/U6pgmqj95C 
+  | My Website | https://rgg200-github.io
 
-- Requisites
+  | My discord Server | https://discord.gg/U6pgmqj95C 
+
+  | Requisites |
 
  - The Datapack
  
  - The Super minecraft galaxy map
 
-- Features
+   | Features |
 
 • The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right 
 
@@ -21,7 +23,7 @@ Note: if you are 2 or more everyone need to have a game over for you to continue
 if he have enough lives to do so
 On Game Over: You will be on the room and once you said yes(at least i hope) you will be teleported to the comet observatory and it will delete all you checkpoint in the level you was/were
  
-- Installing the pack ↓
+  | Installing the pack ↓ |
 
  - Firstly Dowload the pack here -->  https://codeload.github.com/RGG200/SMGminecraftdatapack/zip/refs/heads/main
 
@@ -37,6 +39,6 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 
  - Finally take the datapack folder (it should be named Super Mario Galaxy) and go to your map folder (In the folder "saves") and go to datapacks and drag the Super Mario galaxy datapack in.
 
-- For Help setting up the pack
+  | For Help setting up the pack |
 
 - Go to my discord server at the Channel #My Datapack for now because the setup is manual i will add the setup here in the future ! so stay tuned !
