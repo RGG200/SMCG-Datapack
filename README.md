@@ -41,7 +41,7 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 
  - Finally take the datapack folder (it should be named Super Mario Galaxy) and go to your map folder (In the folder "saves") and go to datapacks and drag the Super Mario galaxy datapack in.
 
-  | For Help setting up the pack | Pre Beta Version 0.2 |
+  | setting up the pack In your world | Pre Beta Version 0.2 |
   
 - Put these in some repeating Command block : 
 /function smg:caracther
@@ -61,3 +61,13 @@ On Game Over: You will be on the room and once you said yes(at least i hope) you
 - Finally put these in a slower clock then the other one (VERY IMPORTANT). 
 /function smg:deaths
 /function smg:clear
+
+ | SideNote |
+ The setup here is for the latest version if you use an older version pls go to the realeases page to have the setup for your vesion
+ 
+ | Credits |
+
+   | Team |
+   
+   | RGG2.0 | Developper / fondator |
+   | LMN95 | Tester |
