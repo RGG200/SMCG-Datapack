@@ -20,10 +20,10 @@
 • The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right 
 
 • The Game Over Feature
-If you have a Game over you will be teleported to the Game over room and it will say Continue ? here you have 2 options 1: say Yes and you will be back the the observatory 2: If you say No and you will be kicked from the server if you are on a server if you are on your world just.... you know what i am gonna let you think how you do if you want to stop playing the map. Did you find the way ? No ? just quit the world ! 
+If you have a Game over you will be teleported to the Observatory and it will say Continue ?
 Note: if you are 2 or more everyone need to have a game over for you to continue or your friend(s) need to do /function smg:give to give a life to the dead player(s)
 if he have enough lives to do so
-On Game Over: You will be on the room and once you said yes(at least i hope) you will be teleported to the comet observatory and it will delete all you checkpoint in the level you was/were
+On Game Over: You will be you will be teleported to the comet observatory and it will delete all you checkpoint in the level you was/were
  
   | Installing the pack ↓ |
 
