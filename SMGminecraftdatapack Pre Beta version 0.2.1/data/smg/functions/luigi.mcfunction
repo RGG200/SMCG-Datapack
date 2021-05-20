@@ -10,7 +10,7 @@ replaceitem entity @p armor.feet minecraft:leather_boots{Unbreakable:1, display:
 replaceitem entity @p armor.legs minecraft:leather_leggings{Unbreakable:1, display:{color:999000}}
 replaceitem entity @p armor.chest minecraft:leather_chestplate{Unbreakable:1, display:{color:19901982}}
 replaceitem entity @p armor.head minecraft:player_head{Unbreakable:1, SkullOwner:"Luigi"}
-attribute @r[tag=luigi] generic.armor base set 1
+attribute @p generic.armor base set 1
 tag @p remove mario
 tag @p remove waluigi
 tag @p remove wario
