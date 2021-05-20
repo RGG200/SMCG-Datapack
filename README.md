@@ -50,8 +50,7 @@ to go back in solo.
 ° You can also just replace the caracthers room with command block with the command to make it a little bit easier.
 °  Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
 
- 
-  | Installing the pack ↓ |
+| Installing the pack ↓ |
 
 - Firstly Dowload the pack here --> https://codeload.github.com/RGG200/SMGminecraftdatapack/zip/refs/heads/main
 
@@ -69,7 +68,7 @@ to go back in solo.
 [SMGminecraftdatapack Pre Beta version 0.2.1.zip](https://github.com/RGG200/SMGminecraftdatapack/files/6510065/SMGminecraftdatapack.Pre.Beta.version.0.2.1.zip)
 and go to your map folder (In the folder "saves") and go to datapacks and drag the SMGminecraftdapack pre beta version 0.2.1 in.
 
- | Setup | Pre Beta Version 0.2.1 |
+| Setup | Pre Beta Version 0.2.1 |
 - Put these in some repeating Command block :
 - /function smg:energy
 - /function smg:weakmario
@@ -88,14 +87,14 @@ and go to your map folder (In the folder "saves") and go to datapacks and drag t
 - /function smg:mobkill (This is the function that heals you when you kill a mob because in SMG when you kill a mob it drops a coin and the coin heals you and this function have another secret feature>
 - /function smg:mobkillclear
 
- | Feedback, Questions |
+| Feedback, Questions |
 - If you want to send me feedback go to my discord server at the channel about my datapack.
 - If you have and Questions or Propostions send it to me on the Pull Request tab.
 - If you have bug or issue send it to the Issues tab.
  
- | Credits |
+| Credits |
 
-  | Team |
+ | Team |
 
 - | RGG2.0 | Developper / fondator | 
 - | LMN95 | Tester |
