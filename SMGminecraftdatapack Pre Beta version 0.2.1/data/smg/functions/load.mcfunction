@@ -1,0 +1,1 @@
+tellraw @a {"text": "Thanks For using the Super Minecraft Galaxy datapack Pre Beta 0.2.1 !", "color":"#0CFF00"}
