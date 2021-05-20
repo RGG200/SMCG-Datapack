@@ -71,7 +71,6 @@ and go to your map folder (In the folder "saves") and go to datapacks and drag t
 | Setup | Pre Beta Version 0.2.1 |
 - Put these in some repeating Command block :
 - /function smg:energy
-- /function smg:weakmario
 - /function smg:tick
 - /function smg:revive
 - /function smg:fantom
