@@ -1,0 +1,17 @@
+scoreboard objectives setdisplay belowName Lives
+scoreboard objectives setdisplay sidebar Lives
+title @a[tag=easy, tag=alive, scores={Hits=..-99}] actionbar "§b⓺"
+title @a[tag=easy, tag=alive, scores={Hits=-66}] actionbar "§2⓹"
+title @a[tag=easy, tag=alive, scores={Hits=-33}] actionbar "§a⓸"
+title @a[tag=easy, tag=alive, scores={Hits=0..32}] actionbar "§e⓷"
+title @a[tag=easy, tag=alive, scores={Hits=33..65}] actionbar "§6⓶"
+title @a[tag=easy, tag=alive, scores={Hits=66..100}] actionbar "§c⓵"
+title @a[tag=easy, tag=alive, scores={Hits=100..}] actionbar "§4⓿"
+title @a[tag=normal, tag=alive, scores={Hits=0..32}] actionbar "§b⓷"
+title @a[tag=normal, tag=alive, scores={Hits=33..65}] actionbar "§e⓶"
+title @a[tag=normal, tag=alive, scores={Hits=66..100}] actionbar "§c⓵"
+title @a[tag=normal, tag=alive, scores={Hits=100..}] actionbar "§4⓿"
+title @a[tag=hard, tag=alive, scores={Hits=66..100}] actionbar "§c⓵"
+title @a[tag=hard, tag=alive, scores={Hits=100..}] actionbar "§4⓿"
+title @a[tag=hardcore, tag=alive, scores={Hits=66..100}] actionbar "§c⓵"
+title @a[tag=hardcore, tag=alive, scores={Hits=100..}] actionbar "§4⓿"
