@@ -62,7 +62,7 @@ On Game Over: You will be you will be teleported to the comet observatory and it
 
 | Installing the pack ↓ |
 
-• Firstly Dowload the pack here --> https://codeload.github.com/RGG200/SMGminecraftdatapack/zip/refs/heads/main
+• Firstly Dowload the pack here
 
 • Secondly Donwload the Super Minecraft Galaxy map made by Chasin_jason here --> https://www.planetminecraft.com/project/super-minecraft-galaxy-1-16-4-100-complete/
 
@@ -76,27 +76,25 @@ On Game Over: You will be you will be teleported to the comet observatory and it
 
 • Finally take the datapack folder (it should be named SMGminecraftdatapack pre beta version 0.3 SMGminecraftdatapack Pre Beta version 0.3.zip and go to your map folder (In the folder "saves") and go to datapacks and drag the SMGminecraftdapack pre beta version 0.3 in.
 
-| Setup | Pre Beta Version 0.3 |
+| Setup | Pre Beta Version 0.3 Revision 1 |
 
-- Put these in some repeating Command block :
+Put these in some repeating Command block :
 
-• /function smg:energy
+/function smg:energy
 
-• /function smg:tick
+/function smg:tick
 
-• /function smg:revive
+/function smg:revive
 
-• /function smg:damagecooldown
+/function smg:damagecooldown
 
-• /function smg:mobkill
+/function smg:mobkill
 
-• /function smg:info
+/function smg:info
 
-• /function smglives (Obviously you know what this does.)
+/function smglives (Obviously you know what this does.)
 
-• /function smg:deaths
-
-• /function smg:mobkillclear
+/function smg:deaths
 
 | Setup Video |
 
