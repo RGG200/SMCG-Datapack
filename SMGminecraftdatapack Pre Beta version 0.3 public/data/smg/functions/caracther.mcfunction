@@ -1,1 +1,0 @@
-tellraw @a "§4 Sorry the command to change caracther moved out just do /function smg:(your caracther between mario, luigi, rosalina, wario and waluigi) to change caracther or you can make a system of pressure plates on a command block with the function and place it on the caracther room of the map"
