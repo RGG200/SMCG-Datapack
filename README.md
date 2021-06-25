@@ -17,6 +17,14 @@
 
 | Features |
 
+• Brand New lava damage system ! Now when you fall in lava you will jump like in Super mario Galaxy.
+
+• New Damage indicator ! So that you see when you lose health
+
+• Newly added Star Mushroom Power Up ! When you eat an enchanted gapple your Energy Left will increase by 3 if you are on easy or normal and by 2 if you are in hard or hardcore mode.
+
+• New Coin Item ! When you eat a gapple it will have the same effect as a coin in super mario galaxy.
+
 - The Lives counter 
 The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right 
 
