@@ -4,10 +4,6 @@
 
 • Once you are in Game YOU MUST CHOSE A CARACTHER
 
-| Description |
-
-• This is the Beta Release Version 0.5 of my SMGminecraft datapack
-
 | My Website | https://rgg200.github.io
 
 | My discord Server | https://discord.gg/U6pgmqj95C
