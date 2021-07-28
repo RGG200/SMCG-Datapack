@@ -1,4 +1,4 @@
-# SMGminecraftdatapack
+# SMCG-Datapack
 
 | Warning |
 
