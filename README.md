@@ -4,8 +4,6 @@
 
 • Once you are in Game YOU MUST CHOSE A CARACTHER
 
-| My Website | https://rgg200.github.io
-
 | My discord Server | https://discord.gg/U6pgmqj95C
 
 | Prerequisites |
