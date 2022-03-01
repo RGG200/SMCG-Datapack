@@ -1,0 +1,17 @@
+{
+    "values":[
+    "smgt:tick",
+    "smgt:lives",
+    "smgt:deaths",
+    "smgt:damagecooldown",
+    "smgt:energy",
+    "smgt:health",
+    "smgt:vie",
+    "smgt:info",
+    "smgt:mobkill",
+    "smgt:revive",
+    "smgt:saut",
+    "smcg:loop",
+    "smgt:lfsys"
+    ]
+}

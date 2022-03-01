@@ -1,0 +1,1 @@
+execute if entity @a[scores={Delay2=0..3}] run scoreboard players operation @a[tag=default] Lives -= @a[tag=default] Deaths

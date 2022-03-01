@@ -1,0 +1,2 @@
+# SMCG Version Message
+tellraw @a "§b ♦ [Beta] SMCG ♦ \n _______________________________________ \n \n Version 0.7(Build 0.6877) \n © 2021 RG's Datapack Reloaded \n \n SMGC is a datapack for minecraft that uses the SMGT Kernel to Recrate Some Features Of Super Mario Galaxy and adds some extras as well. This Datapack Is For The Chasin Jason Map. \n \n For More Info : https://github.com/RGG200/SMCG-Datpack/ \n"
