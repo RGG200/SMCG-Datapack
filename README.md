@@ -67,7 +67,7 @@
 
 • In the text box type "AppData" then go to Roaming then .minecraft then saves then open another explorer and go to Download or where you have the map in and drag the map to the explorer tab in the folder saves
 
-• Finally take the datapack folder (it should be named SMGminecraftdatapack beta version 0.5 SMGminecraftdatapack Pre Beta version 0.5.zip and go to your map folder (In the folder "saves") and go to datapacks and drag the SMGminecraftdapack pre beta version 0.5 in.
+• Finally take the datapack folder (it should be named SMGC Beta Version (your version) or SMGC-Beta-Version-(version).zip just put it in the datapack folder in your map folder.
 
 | Setup | Beta Version 0.5 / Pre Beta 0.4 |
 
