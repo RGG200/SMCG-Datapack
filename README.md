@@ -24,10 +24,10 @@
 
 • Diffuculty modes ! You now need to take a Difficulty mode Do /tag @p/@A add (easy/normal/hard/hardcore) and do /reload to chose your difficulty you can change it after if you want by doing /tag @p/@A after you chosed you difficulty do /reload if you are on a server if not open to lan and do it.
 • Difficulty Stats :
-Easy : 6 Health Points, 10 Lives
-Normal : 3 Health Points, 5 LIves
-Hard : 1 Health Point, 3 Lives
-Hardcore : 1 Health Point, 1 Life
+- Easy : 6 Health Points, 10 Lives
+- Normal : 3 Health Points, 5 LIves
+- Hard : 1 Health Point, 3 Lives
+- Hardcore : 1 Health Point, 1 Life
 
 • The Lives counter The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right
 
