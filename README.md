@@ -4,7 +4,7 @@
 
 • Once you are in Game YOU MUST CHOSE A CARACTHER
 
-| My discord Server | https://discord.gg/U6pgmqj95C
+| My discord Server | https://discord.gg/eZyBbPUmEt
 
 | Prerequisites |
 
