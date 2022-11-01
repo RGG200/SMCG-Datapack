@@ -22,18 +22,18 @@
 
 | Features |
 
-Thanks SMGT-Kernel the pack is going to be better. For more info do /function smgt:ver
+• Thanks SMGT-Kernel the pack is going to be better. For more info do /function smgt:ver
 
-Introducing The Health Info Pop-ups ! Simple. When you get hurt you will see how much health you lost from the HPs you had and the HPs you now have and by the way it also show when you regen one HP.
+• Introducing The Health Info Pop-ups ! Simple. When you get hurt you will see how much health you lost from the HPs you had and the HPs you now have and by the way it also show when you regen one HP.
 
 • Complete HP system ! This is the new HP system. Now if you got hit you lose a HP if you lose all of your HP you will die now the Lives Left actionbar is gone and replaced by the HP's. But Don't worry mobs have now a cooldown so it is okay just be really careful with the witches blaze.
 
 • Diffuculty modes ! You now need to take a Difficulty mode Do /tag @p/@A add (easy/normal/hard/hardcore) and do /reload to chose your difficulty you can change it after if you want by doing /tag @p/@A after you chosed you difficulty do /reload if you are on a server if not open to lan and do it.
 • Difficulty Stats :
-Easy : 6 Health Points, 10 Lives
-Normal : 3 Health Points, 5 LIves
-Hard : 1 Health Point, 3 Lives
-Hardcore : 1 Health Point, 1 Life
+- Easy : 6 Health Points, 10 Lives
+- Normal : 3 Health Points, 5 LIves
+- Hard : 1 Health Point, 3 Lives
+- Hardcore : 1 Health Point, 1 Life
 
 • The Lives counter The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right
 
@@ -44,14 +44,14 @@ Hardcore : 1 Health Point, 1 Life
 • Complete Multiplayer support up to 5 Players ! Select a caracther and Enjoy if you have bugs with it send me an issue. and to play on solo after you played on multiplayer just do /team leave @A or /team leave and also /scoreboard reset @A Lives In the future there will be a /smg:solo to go back in solo.
 
 • Custom carathers switching system For all the caracthers !
-° Luigi : OK
-° Mario : OK
-° Wario : OK !
-° Waluigi : OK !
-° Rosalina : OK !
-° To chose/change you caracther just do /function smg:<your caracther between mario, luigi, rosalina, wario and waluig>
-° You can also just replace the caracthers room with command block with the command to make it a little bit easier.
-° Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
+- Luigi : OK
+- Mario : OK
+- Wario : OK !
+- Waluigi : OK !
+- Rosalina : OK !
+- To chose/change you caracther just do /function smg:<your caracther between mario, luigi, rosalina, wario and waluig>
+- You can also just replace the caracthers room with command block with the command to make it a little bit easier.
+- Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
 
 | Installing the pack ↓ |
 
