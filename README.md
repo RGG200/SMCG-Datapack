@@ -22,7 +22,7 @@
 
 | Features |
 
-Under The Hood Improvement ! With the brand new SMGT-Kernel the pack is going to be better. For more info do /function smgt:ver
+Thanks SMGT-Kernel the pack is going to be better. For more info do /function smgt:ver
 
 Introducing The Health Info Pop-ups ! Simple. When you get hurt you will see how much health you lost from the HPs you had and the HPs you now have and by the way it also show when you regen one HP.
 
@@ -53,16 +53,13 @@ Hardcore : 1 Health Point, 1 Life
 ° You can also just replace the caracthers room with command block with the command to make it a little bit easier.
 ° Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
 
-| Patch Notes |
-
-Fixed The Bug with the lives system
 | Installing the pack ↓ |
 
 You know how to install a datapack on a map Right ?
 if not here is a tutorial : https://www.youtube.com/watch?v=KNxcgGpnn8Q
 This tutorial is absolutely not from me.
 
-| Manual Setup | Beta Version 0.6+ |
+| Manual Setup | Beta Version 0.5+ |
 
 Step 1
 Open to lan, Allow Cheats and Chose you difficulty mode /tag @A add easy/normal/hard/hardcore
@@ -76,29 +73,21 @@ Do /reload
 Step 4
 Done ! Enjoy ! Way easier then before !
 
-| Setup Video |
+[ Setup Video | For 0.4b to 0.5.2b ]
 
-Comming soon... the old one is not compatible
+ https://youtu.be/6DKpQ0YLdlM
 
 | Feedback, Questions |
 
-If you want to send me feedback go to my discord server at the channel about my datapack.
-If you have and Questions or Propostions send it to me on the Pull Request tab.
-If you have bug or issue send it to the Issues tab.
-
-| Side Notes |
-
-• This is not a Full release. It's a Beta Build ( Beta Build 0.7077 )
-
-• This project is open source so you can download it and modify it as you wish for your map or for minecraft in general. If you create a datapack that uses some of my code or is inspired by mine just leave a link under you project for mine so they can download it. If you want to make a video on it or just you play the SMG mc map ask me before and put a link for my datapack and the official map in the description of your video.
+• If you want to send me feedback go to my discord server at the channel about my datapack.
+• If you have and Questions or Propostions send it to me on the Pull Request tab.
+• If you have bug or issue send it to the Issues tab.
 
 | Credits |
 
-Thanks to Chasin Jason for making this Really good map !
-
-Thanks you for downloading the pack. I Hope you enjoyed my datapack. Enjoy The Datapack !
-
-THANKS AND HAVE A GREAT DAY !!!
+• Thanks to Chasin Jason for making this Really good map !
+• Thanks you for downloading the pack. I Hope you enjoyed my datapack. Enjoy The Datapack !
+• THANKS AND HAVE A GREAT DAY !!!
 
 RGn2
 
