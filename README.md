@@ -25,20 +25,20 @@
 - Complete HP system ! This is the new HP system. Now if you got hit you lose a HP if you lose all of your HP you will die now the Lives Left actionbar is gone and replaced by the HP's. But Don't worry mobs have now a cooldown so it is okay just be really careful with the witches blaze
 - Diffuculty modes ! You now need to take a Difficulty mode Do /tag @p/@A add (easy/normal/hard/hardcore) and do /reload to chose your difficulty you can change it after if you want by doing /tag @p/@A after you chosed you difficulty do /reload if you are on a server if not open to lan and do it
 - Difficulty Stats :
- - Easy : 6 Health Points, 10 Lives
- - Normal : 3 Health Points, 5 LIves
- - Hard : 1 Health Point, 3 Lives
- - Hardcore : 1 Health Point, 1 Life
+ -- Easy : 6 Health Points, 10 Lives
+ -- Normal : 3 Health Points, 5 LIves
+ -- Hard : 1 Health Point, 3 Lives
+ -- Hardcore : 1 Health Point, 1 Life
 - The Lives counter The First and Principal Major Feature is the lives counter The Lives counter will decrease if you die you have 4 Lives and if you have 0 Lives and die you will have a Game over you can see your Lives Counter at the right
 - The common lives system ! If one of you loses all of his lives he will be in spectator mode until everyone dies or one of the other players give him a life with /function smg:give if there a 2 dead persons it will give a life to all of them even if you give only one life so you can abuse on that ( fixed in 0.7+ I think )
 - The Game Over Feature If you have a Game over you will be teleported to the Observatory and it will say Continue ? Note: if you are 2 or more everyone need to have a game over for you to continue or your friend(s) need to do /function smg:give to give a life to the dead player(s) if he have enough lives to do so On Game Over. you will be teleported to the comet observatory and it will delete all you checkpoint in the level you was/were
 - Complete Multiplayer support up to 5 Players ! Select a caracther and Enjoy if you have bugs with it send me an issue. and to play on solo after you played on multiplayer just do /team leave @A or /team leave and also /scoreboard reset @A Lives In the future there will be a /smg:solo to go back in solo
 - Custom carathers switching system For all the caracthers !
- - Luigi : OK
- - Mario : OK
- - Wario : OK !
- - Waluigi : OK !
- - Rosalina : OK !
+ -- Luigi : OK
+ -- Mario : OK
+ -- Wario : OK !
+ -- Waluigi : OK !
+ -- Rosalina : OK !
 - To chose/change you caracther just do /function smg:<your caracther between mario, luigi, rosalina, wario and waluig>
  - you can also just replace the caracthers room with command block with the command to make it a little bit easier.
  - Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
