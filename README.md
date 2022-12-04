@@ -20,6 +20,8 @@
 
 | Features |
 
+- Ice Flower Power Up ! Kinda like frost walker with a couple more features
+- MBF2.0 ! Mario Can Burn like in the real games !
 - Thanks SMGT-Kernel the pack is going to be better. For more info do /function smgt:ver
 - Introducing The Health Info Pop-ups ! Simple. When you get hurt you will see how much health you lost from the HPs you had and the HPs you now have and by the way it also show when you regen one HP
 - Complete HP system ! This is the new HP system. Now if you got hit you lose a HP if you lose all of your HP you will die now the Lives Left actionbar is gone and replaced by the HP's. But Don't worry mobs have now a cooldown so it is okay just be really careful with the witches blaze
