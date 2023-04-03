@@ -1,10 +1,10 @@
 # SMCG-Datapack
 
-| Warning |
+## Warning
 
 • Once you are in Game YOU MUST CHOSE A CARACTHER
 
-| Description |
+## Description
 
 • This is the SuperMineCraftGalaxy datapack. This Datapack adds features to the SuperMineCraftGalaxy map to make it a more immersive and faithful experience
 
@@ -18,7 +18,7 @@
 - The Super minecraft galaxy map
 - Minecraft Version 1.16.4 - 1.16.5
 
-| Features |
+## Features
 
 - Ice Flower Power Up ! Kinda like frost walker with a couple more features
 - MBF2.0 ! Mario Can Burn like in the real games !
@@ -44,13 +44,13 @@
 - To chose/change you caracther just do /function smg:<your caracther between mario, luigi, rosalina, wario and waluigi>. you can also just replace the caracthers room with command block with the command to make it a little bit easier.
  Disclamer: Do not change caracther if you hold stuff on you deposit the stuff first because if you don't your stuff will be deleted !
 
-| Installing the pack ↓ |
+## Installing the pack ↓
 
 - You know how to install a datapack on a map Right ?
 if not here is a tutorial : https://www.youtube.com/watch?v=KNxcgGpnn8Q
 This tutorial is absolutely not from me.
 
-| Manual Setup | Beta Version 0.5+ |
+## Manual Setup | Beta Version 0.5+ 
 
 - Step 1
 Open to lan, Allow Cheats and Chose you difficulty mode /tag @A add easy/normal/hard/hardcore
@@ -65,7 +65,7 @@ Done ! Enjoy ! Way easier then before !
 
  https://youtu.be/6DKpQ0YLdlM
 
-| Feedback, Questions |
+## Feedback, Questions 
 
 - If you want to send me feedback go to my discord server at the channel about my datapack.
 
@@ -73,7 +73,7 @@ Done ! Enjoy ! Way easier then before !
 
 - If you have bug or issue send it to the Issues tab.
 
-| Credits |
+## Credits
 
 - Thanks to Chasin Jason for making this Really good map !
 
