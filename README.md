@@ -8,10 +8,6 @@
 
 • This is the SuperMineCraftGalaxy datapack. This Datapack adds features to the SuperMineCraftGalaxy map to make it a more immersive and faithful experience
 
-| My Website | https://sitederg.duckdns.org/
-
-| My discord Server | https://discord.gg/U6pgmqj95C
-
 | Prerequisites |
 
 - The Datapack
